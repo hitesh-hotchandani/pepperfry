@@ -4,8 +4,8 @@ Technical Challenge Questions from PepperFry.com
 Steps:
 
 To run the application there are two ways:
-    1. Use the main method in base classes and provide custom input via command line
-    2. Add input to corresponding test cases. Base Sample input is already provided in the test files.
+* Use the main method in base classes and provide custom input via command line
+* Add input to corresponding test cases. Base Sample input is already provided in the test files.
 
 The SQL queries are to be executed separately. The queries are tested with SQLFiddle (http://sqlfiddle.com/)
 Simply copy the contents of resource loader into the Schema Panel and execute Build Schema.
